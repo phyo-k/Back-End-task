@@ -1,7 +1,5 @@
-# Back-End-task_1
-Setting development environment with Spring, MySQL, MyBatis
+# Back-End-task_1 : Setting development environment with Spring, MySQL, MyBatis
 ---------------------------------------------------------------------------------------------------
-
 # 1차 과제 : 개발환경 세팅
 
 1. 개발 환경 세팅
